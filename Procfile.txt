@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run tedsa_puf_ui.py
